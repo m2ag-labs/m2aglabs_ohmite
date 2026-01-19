@@ -23,4 +23,4 @@ Adafruit Metro M4
 
 Adafruit ItsyBitsy M4
 
-Copyright (c) 2021 m2ag.labs [(https://m2aglabs.wordpress.com)](https://m2aglabs.wordpress.com)
+Copyright (c) 2025 m2ag.labs [(https://m2aglabs.wordpress.com)](https://m2aglabs.wordpress.com)
